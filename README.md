@@ -6,7 +6,7 @@ to configurate excel so it can allow custom functions created in python, go to:
 https://docs.xlwings.org/en/stable/udfs.html
 
 
-you can find the video tutorial to this model in:
+you can find the video tutorial wich i was based on:
 https://www.youtube.com/watch?v=VIZLfL7ukoE&ab_channel=DatakickAnalytics
 
 
