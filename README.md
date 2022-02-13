@@ -1,11 +1,30 @@
 # Custom-functions-in-excel-with-python
 
-to configurate excel so it can allow custom functions created in python, go to:
-https://docs.xlwings.org/en/stable/udfs.html
 
 
 
 An .xlsm an .py file with different ML models that can be run using functions in excel using the xlwings python library.
+
+Custom functions:
+
+## Linear Regression
+pred_lr
+coefficients_lr
+intercept_lr
+score_lr
+rsme_lr
+
+## Kmeans
+kmeans_cluster
+kmeans_centroids
+
+
+
+
+
+to configurate excel so it can allow custom functions created in python, go to:
+https://docs.xlwings.org/en/stable/udfs.html
+
 
 
 
